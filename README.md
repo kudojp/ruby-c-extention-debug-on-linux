@@ -1,5 +1,11 @@
 # ruby-c-extention-debug-on-linux
 
+## About this repository
+
+This is to reproduce a bug described in [kudojp/async_scheduler@pull#9](https://github.com/kudojp/async_scheduler/pull/9#issue-1096874214).
+
+## How to boot up
+
 In your local directory,
 
 ```sh
@@ -23,6 +29,5 @@ In the gdb console,
 (gdb) run
 ```
 
-### Ref.
-
-https://qiita.com/kudojp/items/93ca90c195d3bffd1ed0
+## Ref.
+- https://qiita.com/kudojp/items/93ca90c195d3bffd1ed0
