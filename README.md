@@ -25,7 +25,8 @@ In the docker container,
 In the gdb console,
 
 ```
-(gdb) set print pretty on   # (optional) for formatting the console outputs.
+# Optional: For formatting the console outputs.
+(gdb) set print pretty on
 
 (gdb) break rb_io_puts
 (gdb) run
