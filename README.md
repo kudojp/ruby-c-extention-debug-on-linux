@@ -2,7 +2,7 @@
 
 ## About this repository
 
-This is to reproduce a bug described in [kudojp/async_scheduler@pull#9](https://github.com/kudojp/async_scheduler/pull/9#issue-1096874214).
+This is to reproduce a bug described in [kudojp/async_scheduler@pull#9](https://github.com/kudojp/async_scheduler/pull/9#issue-1096874214).    
 You can set a break point in C-extensions in Ruby language.
 
 ## How to boot up
